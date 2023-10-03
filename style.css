@@ -1,0 +1,9 @@
+/*Header*/
+.headerrosa{
+    background-color: #ffc0cb;
+}
+.header1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
