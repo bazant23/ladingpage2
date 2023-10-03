@@ -1,4 +1,13 @@
 /*Header*/
+:root {
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Oswald', sans-serif;
+
+}
 
 .header1 {
     display: flex;
@@ -17,7 +26,7 @@ a {
     flex-direction: row-reverse;
     align-items: center;
     justify-content: center;
-
+    position: absolute;
 }
 
 .imgcolor {
@@ -38,12 +47,12 @@ a {
     padding: 10px 30px 10px 30px;
 }
 
-.texto1{
+.texto1 {
     padding-bottom: 10vh;
     font-size: 50px;
 }
 
-.texto2{
+.texto2 {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -52,6 +61,6 @@ a {
     font-size: 30px;
 }
 
-.central{
+.central {
     display: flex;
 }
