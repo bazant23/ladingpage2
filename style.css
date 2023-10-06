@@ -146,7 +146,7 @@ a {
     margin-right: 30px;
     text-align: justify;
 }
-
+.pat4{}
 /*Parte 5*/
 .paarte5 {
     background-color: #fce0ef;
@@ -173,7 +173,7 @@ a {
 /*Parte 6*/
 .paarte6 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -185,28 +185,31 @@ a {
 }
 
 .dalleboyy {
-    padding-left: 15%;
+
 }
 
 .paarte61 {
     display: flex;
 }
 
-.parte62 {
+.paarte62 {
     display: flex;
-    margin-left: 50px;
+    font-size: 32px;
 }
 
 .paarte63 {
     display: flex;
     padding-top: 8%;
+    font-size: 18px;
+    color: #676767;
 }
 
 .paarte64 {
     display: flex;
     padding-top: 8%;
-    padding-left: 15%;
+    padding-left: 10%;
     align-items: flex-start;
+    color: #ED017F;
 }
 
 /*Fim da Parte 6*/
