@@ -20,7 +20,7 @@
 }
 
 a {
-    color: #000;
+    color: #010101;
     text-decoration: none;
 }
 
@@ -106,7 +106,7 @@ a {
     font-size: 40px;
     margin-bottom: 2%;
     font-family: 'Dela Gothic One', cursive;
-
+    color: #343434;
 }
 
 .parrte111 {
@@ -195,6 +195,8 @@ a {
 .paarte62 {
     display: flex;
     font-size: 32px;
+    font-family: 'Dela Gothic One', cursive;
+    color: #343434;
 }
 
 .paarte63 {
@@ -207,9 +209,9 @@ a {
 .paarte64 {
     display: flex;
     padding-top: 8%;
-    padding-left: 10%;
     align-items: flex-start;
     color: #ED017F;
 }
+
 
 /*Fim da Parte 6*/
