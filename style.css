@@ -219,3 +219,27 @@ a {
 
 
 /*Fim da Parte 6*/
+
+/*Inicio Parte7*/
+.parte7{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.parte72{
+    font-family: 'Dela Gothic One', cursive;
+    color: #343434;
+    font-size: 30px;
+    margin-top: 80px;
+    margin-bottom:20px;
+}
+
+.parte73{
+    margin-bottom: 40px;
+}
+
+.parte74{
+    display: flex;
+}
+/*Fim da parte7*/
