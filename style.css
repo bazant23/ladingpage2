@@ -359,7 +359,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-bottom: 60px;
+    padding-bottom: 150px;
 }
 
 .parte930 {
@@ -372,16 +372,42 @@ input[type="submit"] {
 
 /*Fim da parte 9*/
 /*footer1*/
-.foooter00 {
+.fa1 {
     display: flex;
-    align-items: center;
+    text-align: start;
     justify-content: space-around;
 }
 
-.footer1 {}
-
-.footer22 {
-    color: #010101;
+.colorfa{
+color:#676767;
 }
 
+.fa3 {
+    padding-bottom: 40px;
+}
+
+.fah1 {
+    padding-bottom: 15px;
+    font-size: 18px
+}
+
+.about{
+    color: #010101;
+    padding-bottom:15px ;
+    font-size: 18px
+}
+
+.espacop{
+    color: #676767;
+    margin-bottom: 20px;
+}
+
+.colorfooter{
+    color: #ED017F;
+}
+
+.icons{
+    display: flex;
+    justify-content: center;
+}
 /*fim do Footer1*/
