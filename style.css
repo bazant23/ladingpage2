@@ -248,6 +248,18 @@ a {
     margin-bottom: 20px;
 }
 
+.seta{
+    padding-left: 70px;
+}
+
+.hmm{
+    padding-left: 28px;
+}
+
+.porquinn{
+    padding-left:48px;
+}
+
 .parte73 {
     margin-bottom: 40px;
     color: #999999;
@@ -266,6 +278,7 @@ a {
     color: #363940;
     margin-top: 19px;
     margin-bottom: 8vh;
+    font-size: 20px;
 }
 
 .espaco75 {
@@ -275,71 +288,7 @@ a {
 /*Fim da parte7*/
 
 /*Inicio da Parte 8*/
-.parte8 {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
-    margin-bottom: 50px;
-}
 
-.parte81 {
-    font-family: 'Dela Gothic One', cursive;
-    color: #343434;
-    font-size: 30px;
-    margin-bottom: 20px;
-    margin-top: 30px;
-}
-
-.parte82 {
-    display: flex;
-    color: #999999;
-    text-align: center;
-    justify-content: center;
-}
-
-.parte83 {
-    display: flex;
-    justify-content: space-around;
-    padding: 40px;
-    align-items: center;
-}
-
-.praesquerda {
-    margin-left: 110px;
-}
-
-.praesquerda2 {
-    margin-left: 80px;
-}
-
-.ddtank {
-    color: #ED017F;
-}
-
-.praesquerda3 {
-    margin-left: 50px;
-}
-
-.parte88 {
-    display: flex;
-    justify-content: space-around;
-    padding: 40px;
-    align-items: center;
-
-}
-
-.parte84 {
-    display: flex;
-    font-size: 40px;
-    margin-bottom: 14px;
-    padding-right: 30px;
-}
-
-.parte85 {
-    color: #676767;
-
-}
 
 /*Fim da Parte 8*/
 /*Começo da parte 9*/
@@ -421,7 +370,9 @@ color:#676767;
 
 .icons{
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
+    padding-top: 73px;
+    text-align: start;
 }
 
 /*fim do Footer1*/
